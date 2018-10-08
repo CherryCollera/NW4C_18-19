@@ -1,0 +1,13 @@
+C:\Users\JL\Desktop\SANTOS_WINDOWSFORM_LAB3\Caisip_WindowsForm_Lab3\bin\Debug\Caisip_WindowsForm_Lab3.exe.config
+C:\Users\JL\Desktop\SANTOS_WINDOWSFORM_LAB3\Caisip_WindowsForm_Lab3\bin\Debug\Caisip_WindowsForm_Lab3.exe
+C:\Users\JL\Desktop\SANTOS_WINDOWSFORM_LAB3\Caisip_WindowsForm_Lab3\bin\Debug\Caisip_WindowsForm_Lab3.pdb
+C:\Users\JL\Desktop\SANTOS_WINDOWSFORM_LAB3\Caisip_WindowsForm_Lab3\obj\Debug\Caisip_WindowsForm_Lab3.csprojAssemblyReference.cache
+C:\Users\JL\Desktop\SANTOS_WINDOWSFORM_LAB3\Caisip_WindowsForm_Lab3\obj\Debug\Caisip_WindowsForm_Lab3.Calculator.resources
+C:\Users\JL\Desktop\SANTOS_WINDOWSFORM_LAB3\Caisip_WindowsForm_Lab3\obj\Debug\Caisip_WindowsForm_Lab3.Form1.resources
+C:\Users\JL\Desktop\SANTOS_WINDOWSFORM_LAB3\Caisip_WindowsForm_Lab3\obj\Debug\Caisip_WindowsForm_Lab3.Form3.resources
+C:\Users\JL\Desktop\SANTOS_WINDOWSFORM_LAB3\Caisip_WindowsForm_Lab3\obj\Debug\Caisip_WindowsForm_Lab3.Form4.resources
+C:\Users\JL\Desktop\SANTOS_WINDOWSFORM_LAB3\Caisip_WindowsForm_Lab3\obj\Debug\Caisip_WindowsForm_Lab3.Properties.Resources.resources
+C:\Users\JL\Desktop\SANTOS_WINDOWSFORM_LAB3\Caisip_WindowsForm_Lab3\obj\Debug\Caisip_WindowsForm_Lab3.csproj.GenerateResource.cache
+C:\Users\JL\Desktop\SANTOS_WINDOWSFORM_LAB3\Caisip_WindowsForm_Lab3\obj\Debug\Caisip_WindowsForm_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\JL\Desktop\SANTOS_WINDOWSFORM_LAB3\Caisip_WindowsForm_Lab3\obj\Debug\Caisip_WindowsForm_Lab3.exe
+C:\Users\JL\Desktop\SANTOS_WINDOWSFORM_LAB3\Caisip_WindowsForm_Lab3\obj\Debug\Caisip_WindowsForm_Lab3.pdb
